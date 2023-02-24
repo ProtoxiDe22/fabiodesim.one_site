@@ -1,0 +1,19 @@
+@font-face {
+    font-family: HypnoAbyssal;
+    src: url(res/fonts/hypnos-abyssal.otf) format("opentype");
+}
+
+@font-face {
+    font-family: Hypnospace;
+    src: url(res/fonts/hypnospace-edit.otf) format("opentype");
+}
+
+
+.abyssal{
+    font-family: HypnoAbyssal;
+}
+
+.hypnospace{
+    font-family: Hypnospace;
+    font-size: 20px;
+}
